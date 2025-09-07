@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Chung's profile !!!
 
 <!--
 **JustChung2612/JustChung2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
