@@ -40,35 +40,22 @@
   <img src="https://api.iconify.design/mdi/memory.svg?color=%23009FE3" width="40" alt="STM32CubeProgrammer" title="STM32CubeProgrammer"/>
 </p>
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=JustChung2612&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=JustChung2612&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
     alt="GitHub Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustChung2612&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustChung2612&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**JustChung2612/JustChung2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
