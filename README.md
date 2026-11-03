@@ -1,6 +1,15 @@
 # Welcome to Chung's profile !!!
 
+## 👨‍💻 A Little About Me
+- 💻 Passionate about **Software Development & Embedded Systems**
+- 🚀 Building modern web applications with **React, Node.js & JavaScript**
+- 🔧 Exploring **STM32 Microcontrollers, C++ & Embedded Programming**
+- 🌱 Currently strengthening my skills in **Full-Stack Development and Embedded Engineering**
+- 🎯 Working toward becoming a **well-rounded Embedded Engineer**
+- 🧠 I enjoy understanding how things work, from software logic to hardware interactions
+- ⚡ **Learn. Build. Experiment. Improve.**
 
+---
 
 ## 🛠️ My Tech Stack 
 <h3> Software Developer </h3>
@@ -56,6 +65,3 @@
   />
 </p>
 
-
-
--->
