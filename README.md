@@ -4,57 +4,26 @@
 
 ## 🛠️ My Tech Stack :
 
-### Languages
-<p>
   <img src="https://api.iconify.design/devicon/javascript.svg" width="40" alt="JavaScript"/>
   <img src="https://api.iconify.design/devicon/html5.svg" width="40" alt="HTML"/>
   <img src="https://api.iconify.design/devicon/css3.svg" width="40" alt="CSS"/>
-</p>
-
-### State Management
-<p>
   <img src="https://api.iconify.design/devicon/zustand.svg" width="40" alt="Zustand"/>
-</p>
-
-### Frontend
-<p>
   <img src="https://api.iconify.design/devicon/react.svg" width="40" alt="React"/>
   <img src="https://api.iconify.design/devicon/vitejs.svg" width="40" alt="Vite"/>
   <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://api.iconify.design/devicon/sass.svg" width="40" alt="SCSS"/>
-</p>
-
-### API Development
-<p>
   <img src="https://api.iconify.design/mdi/api.svg?color=%2300A9A9" width="40" alt="RESTful APIs"/>
   <img src="https://api.iconify.design/simple-icons/axios.svg?color=%235A29E4" width="40" alt="Axios"/>
-</p>
-
-### Backend
-<p>
   <img src="https://api.iconify.design/devicon/nodejs.svg" width="40" alt="Node.js"/>
   <img src="https://api.iconify.design/simple-icons/express.svg?color=%23888888" width="40" alt="Express.js"/>
-</p>
-
-### Tools
-<p>
   <img src="https://api.iconify.design/devicon/git.svg" width="40" alt="Git"/>
   <img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="40" alt="GitHub"/>
   <img src="https://api.iconify.design/devicon/npm.svg" width="40" alt="NPM"/>
   <img src="https://api.iconify.design/simple-icons/postman.svg?color=%23FF6C37" width="40" alt="Postman"/>
   <img src="https://api.iconify.design/simple-icons/insomnia.svg?color=%234000BF" width="40" alt="Insomnia"/>
-</p>
-
-### Database
-<p>
   <img src="https://api.iconify.design/devicon/mongodb.svg" width="40" alt="MongoDB"/>
   <img src="https://api.iconify.design/devicon/mysql.svg" width="40" alt="MySQL"/>
-</p>
-
-### Authentication
-<p>
   <img src="https://api.iconify.design/simple-icons/jsonwebtokens.svg?color=%23888888" width="40" alt="JWT"/>
-</p>
 
 
 ## 📊 GitHub Stats:
