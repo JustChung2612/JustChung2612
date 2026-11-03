@@ -3,6 +3,7 @@
 
 
 ## 🛠️ My Tech Stack 
+<h3> Software Developer </h3>
 <p align="left">
   <img src="https://api.iconify.design/devicon/javascript.svg" width="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://api.iconify.design/devicon/html5.svg" width="40" alt="HTML" title="HTML"/>
@@ -25,6 +26,8 @@
   <img src="https://api.iconify.design/devicon/mysql.svg" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://api.iconify.design/simple-icons/jsonwebtokens.svg?color=%23888888" width="40" alt="JWT" title="JWT"/>
 </p>
+
+<h3> Embedded Developer </h3>
 
 
 
