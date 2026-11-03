@@ -3,8 +3,10 @@
 
 
 
-## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">
+  <h3>My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,scss,nodejs,express,mongodb,mysql,git,github,npm,postman&perline=8" alt="Tech Stack" />
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JustChung2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
