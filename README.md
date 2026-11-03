@@ -2,9 +2,8 @@
 
 
 
-
+## 👨‍💻 My Tech Stack :
 <div align="center">
-  <h3>My Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,scss,nodejs,express,mongodb,mysql,git,github,npm,postman&perline=8" alt="Tech Stack" />
 </div>
 
