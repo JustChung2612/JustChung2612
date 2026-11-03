@@ -2,28 +2,30 @@
 
 
 
-## 🛠️ My Tech Stack :
+## 🛠️ My Tech Stack 
+<p align="left">
+  <img src="https://api.iconify.design/devicon/javascript.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://api.iconify.design/devicon/html5.svg" width="40" alt="HTML" title="HTML"/>
+  <img src="https://api.iconify.design/devicon/css3.svg" width="40" alt="CSS" title="CSS"/>
+  <img src="https://api.iconify.design/devicon/zustand.svg" width="40" alt="Zustand" title="Zustand"/>
+  <img src="https://api.iconify.design/devicon/react.svg" width="40" alt="React" title="React"/>
+  <img src="https://api.iconify.design/devicon/vitejs.svg" width="40" alt="Vite" title="Vite"/>
+  <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://api.iconify.design/devicon/sass.svg" width="40" alt="SCSS" title="SCSS"/>
+  <img src="https://api.iconify.design/mdi/api.svg?color=%2300A9A9" width="40" alt="RESTful APIs" title="RESTful APIs"/>
+  <img src="https://api.iconify.design/simple-icons/axios.svg?color=%235A29E4" width="40" alt="Axios" title="Axios"/>
+  <img src="https://api.iconify.design/devicon/nodejs.svg" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://api.iconify.design/simple-icons/express.svg?color=%23888888" width="40" alt="Express.js" title="Express.js"/>
+  <img src="https://api.iconify.design/devicon/git.svg" width="40" alt="Git" title="Git"/>
+  <img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://api.iconify.design/devicon/npm.svg" width="40" alt="NPM" title="NPM"/>
+  <img src="https://api.iconify.design/simple-icons/postman.svg?color=%23FF6C37" width="40" alt="Postman" title="Postman"/>
+  <img src="https://api.iconify.design/simple-icons/insomnia.svg?color=%234000BF" width="40" alt="Insomnia" title="Insomnia"/>
+  <img src="https://api.iconify.design/devicon/mongodb.svg" width="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://api.iconify.design/devicon/mysql.svg" width="40" alt="MySQL" title="MySQL"/>
+  <img src="https://api.iconify.design/simple-icons/jsonwebtokens.svg?color=%23888888" width="40" alt="JWT" title="JWT"/>
+</p>
 
-  <img src="https://api.iconify.design/devicon/javascript.svg" width="40" alt="JavaScript"/>
-  <img src="https://api.iconify.design/devicon/html5.svg" width="40" alt="HTML"/>
-  <img src="https://api.iconify.design/devicon/css3.svg" width="40" alt="CSS"/>
-  <img src="https://api.iconify.design/devicon/zustand.svg" width="40" alt="Zustand"/>
-  <img src="https://api.iconify.design/devicon/react.svg" width="40" alt="React"/>
-  <img src="https://api.iconify.design/devicon/vitejs.svg" width="40" alt="Vite"/>
-  <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://api.iconify.design/devicon/sass.svg" width="40" alt="SCSS"/>
-  <img src="https://api.iconify.design/mdi/api.svg?color=%2300A9A9" width="40" alt="RESTful APIs"/>
-  <img src="https://api.iconify.design/simple-icons/axios.svg?color=%235A29E4" width="40" alt="Axios"/>
-  <img src="https://api.iconify.design/devicon/nodejs.svg" width="40" alt="Node.js"/>
-  <img src="https://api.iconify.design/simple-icons/express.svg?color=%23888888" width="40" alt="Express.js"/>
-  <img src="https://api.iconify.design/devicon/git.svg" width="40" alt="Git"/>
-  <img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="40" alt="GitHub"/>
-  <img src="https://api.iconify.design/devicon/npm.svg" width="40" alt="NPM"/>
-  <img src="https://api.iconify.design/simple-icons/postman.svg?color=%23FF6C37" width="40" alt="Postman"/>
-  <img src="https://api.iconify.design/simple-icons/insomnia.svg?color=%234000BF" width="40" alt="Insomnia"/>
-  <img src="https://api.iconify.design/devicon/mongodb.svg" width="40" alt="MongoDB"/>
-  <img src="https://api.iconify.design/devicon/mysql.svg" width="40" alt="MySQL"/>
-  <img src="https://api.iconify.design/simple-icons/jsonwebtokens.svg?color=%23888888" width="40" alt="JWT"/>
 
 
 ## 📊 GitHub Stats:
