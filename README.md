@@ -1,8 +1,19 @@
 # Welcome to Chung's profile !!!
 
 ## 👨‍💻 A Little About Me
-- 💻 Passionate about **Software Development & Embedded Systems**
-- 🚀 Building modern web applications with **React, Node.js & JavaScript**
+
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Embedded+Developer" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JustChung2612&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+- 💻 **Software Development & Embedded Systems**
+- 🚀 Building modern web applications wit **React, Node.js & JavaScript**
 - 🔧 Exploring **STM32 Microcontrollers, C++ & Embedded Programming**
 - 🌱 Currently strengthening my skills in **Full-Stack Development and Embedded Engineering**
 - 🎯 Working toward becoming a **well-rounded Embedded Engineer**
