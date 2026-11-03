@@ -40,17 +40,21 @@
   <img src="https://api.iconify.design/mdi/memory.svg?color=%23009FE3" width="40" alt="STM32CubeProgrammer" title="STM32CubeProgrammer"/>
 </p>
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=JustChung2612&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustChung2612&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JustChung2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JustChung2612&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustChung2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=JustChung2612&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
